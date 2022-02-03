@@ -1,0 +1,2 @@
+# fishmaster
+Tera fish bot
